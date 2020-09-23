@@ -3,9 +3,8 @@ using namespace std;
 int main()
 {
     int n;
-
-    cout <<"Hello"<<endl;
-    getc;
-    return 0;
-
+    while(scanf("%d",&n)!=EOF)
+    {
+        cout<<n-1<<endl;
+    }
 }
